@@ -1,0 +1,14 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.box1{
+    position: relative;
+}
+.box1 img{
+    position: absolute;
+}
+.box1 p{
+    position: absolute;
+}
